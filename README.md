@@ -24,7 +24,7 @@ A 16x2 LCD shows live status messages such as **“Idle”**, **“Vehicle Detec
 ###  Wireless Power Transfer
 Uses inductive coupling to wirelessly transfer power between the transmitter (charging pad) and receiver (vehicle).
 
-### 🌐 IoT Integration (In Progress)
+###  IoT Integration (In Progress)
 Designed to support real-time data transmission (e.g., voltage and current) for remote monitoring.
 
 ---
